@@ -32,4 +32,4 @@
 # EDK_II_Build_Spec_Files_Pres
 EDK II Build Specification File
 
-To see the Slides goto  https://gitpitch.com/Laurie0131/EDK_II_Build_Spec_Files_Pres/master#/
+To see the Slides goto  https://gitpitch.com/tianocore-training/EDK_II_Build_Spec_Files_Pres/master#/
